@@ -36,4 +36,4 @@ This project employs various SQL techniques to clean and prepare the data, inclu
 ## Running the SQL Script
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/SQL-Data-Cleaning-Project.git
+   git clone https://github.com/levan-petrosiani/SQL-Data-Cleaning-Project.git
